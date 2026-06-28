@@ -92,3 +92,48 @@ impl ReputationContract {
         score
     }
 }
+
+#[cfg(test)]
+mod test {
+    use super::*;
+    use soroban_sdk::{testutils::Address as _, Env};
+
+    #[test]
+    fn test_add_and_verify_credential() {
+        let env = Env::default();
+        env.mock_all_auths();
+
+        let contract_id = env.register_contract(None, ReputationContract);
+        let client = ReputationContractClient::new(&env, &contract_id);
+
+        let student = Address::generate(&env);
+        let verifier = Address::generate(&env);
+        let skill = String::from_str(&env, "React");
+
+        client.add_credential(&student, &skill, &verifier);
+        assert!(client.verify_credential(&student, &skill));
+    }
+
+    #[test]
+    fn test_endorse_skill() {
+        let env = Env::default();
+        env.mock_all_auths();
+
+        let contract_id = env.register_contract(None, ReputationContract);
+        let client = ReputationContractClient::new(&env, &contract_id);
+
+        let student = Address::generate(&env);
+        let verifier = Address::generate(&env);
+        let endorser = Address::generate(&env);
+        let skill = String::from_str(&env, "TypeScript");
+
+        client.add_credential(&student, &skill, &verifier);
+        client.endorse_skill(&student, &skill, &endorser);
+
+        let credential = client.get_reputation_score(
+            &student,
+            &Vec::from_array(&env, [skill])
+        );
+        assert!(credential > 10);
+    }
+}
