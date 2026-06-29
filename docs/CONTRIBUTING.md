@@ -1,20 +1,20 @@
-# Contributing to Student Reputation Contract
+# Contributing to CredChain
 
-Thank you for your interest in contributing! This project welcomes developers of all skill levels especially African developers breaking into Web3.
+Thank you for your interest in contributing to CredChain — a SolveForge product building on-chain reputation infrastructure for African university students on Stellar.
 
 ## Our Mission
 
-We are building on-chain reputation infrastructure for African university students. Every contribution directly impacts students across Africa.
+Every contribution directly impacts students across Africa who deserve verifiable proof of their skills on-chain.
 
 ## How to Get Started
 
 1. Fork the repository
 2. Clone your fork:
-   git clone https://github.com/YOUR-USERNAME/student-reputation-contract.git
+   git clone https://github.com/YOUR-USERNAME/credchain.git
 3. Create a new branch:
    git checkout -b feature/your-feature-name
 4. Make your changes
-5. Commit your changes:
+5. Commit:
    git add .
    git commit -m "feat: describe what you did"
 6. Push and open a Pull Request:
@@ -56,7 +56,7 @@ We are building on-chain reputation infrastructure for African university studen
 
 ## Earning From Contributions
 
-Issues labeled bounty have USDC rewards attached via Drips Wave on Stellar. Fix the issue, get your PR merged, earn USDC.
+Issues labeled bounty have USDC rewards attached via Drips Wave on Stellar. Fix the issue get your PR merged and earn USDC.
 
 ## Pull Request Rules
 
@@ -70,7 +70,5 @@ Issues labeled bounty have USDC rewards attached via Drips Wave on Stellar. Fix 
 - Open a GitHub Discussion
 - Email: solveforgehq@gmail.com
 - X: @SolveForgeHQ
-
-We respond fast and we are friendly. Do not be afraid to ask questions!
 
 Built with love by SolveForge — We Solve. We Build. We Impact.
