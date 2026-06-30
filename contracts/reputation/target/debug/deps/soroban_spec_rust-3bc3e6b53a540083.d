@@ -1,0 +1,9 @@
+/data/data/com.termux/files/home/credchain/contracts/reputation/target/debug/deps/soroban_spec_rust-3bc3e6b53a540083.d: /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soroban-spec-rust-20.5.0/src/lib.rs /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soroban-spec-rust-20.5.0/src/trait.rs /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soroban-spec-rust-20.5.0/src/types.rs
+
+/data/data/com.termux/files/home/credchain/contracts/reputation/target/debug/deps/libsoroban_spec_rust-3bc3e6b53a540083.rlib: /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soroban-spec-rust-20.5.0/src/lib.rs /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soroban-spec-rust-20.5.0/src/trait.rs /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soroban-spec-rust-20.5.0/src/types.rs
+
+/data/data/com.termux/files/home/credchain/contracts/reputation/target/debug/deps/libsoroban_spec_rust-3bc3e6b53a540083.rmeta: /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soroban-spec-rust-20.5.0/src/lib.rs /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soroban-spec-rust-20.5.0/src/trait.rs /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soroban-spec-rust-20.5.0/src/types.rs
+
+/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soroban-spec-rust-20.5.0/src/lib.rs:
+/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soroban-spec-rust-20.5.0/src/trait.rs:
+/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soroban-spec-rust-20.5.0/src/types.rs:

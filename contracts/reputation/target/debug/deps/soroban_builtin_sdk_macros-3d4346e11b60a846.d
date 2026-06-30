@@ -1,0 +1,7 @@
+/data/data/com.termux/files/home/credchain/contracts/reputation/target/debug/deps/soroban_builtin_sdk_macros-3d4346e11b60a846.d: /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soroban-builtin-sdk-macros-20.2.0/src/lib.rs /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soroban-builtin-sdk-macros-20.2.0/src/derive_fn.rs /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soroban-builtin-sdk-macros-20.2.0/src/derive_type.rs
+
+/data/data/com.termux/files/home/credchain/contracts/reputation/target/debug/deps/libsoroban_builtin_sdk_macros-3d4346e11b60a846.so: /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soroban-builtin-sdk-macros-20.2.0/src/lib.rs /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soroban-builtin-sdk-macros-20.2.0/src/derive_fn.rs /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soroban-builtin-sdk-macros-20.2.0/src/derive_type.rs
+
+/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soroban-builtin-sdk-macros-20.2.0/src/lib.rs:
+/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soroban-builtin-sdk-macros-20.2.0/src/derive_fn.rs:
+/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soroban-builtin-sdk-macros-20.2.0/src/derive_type.rs:
